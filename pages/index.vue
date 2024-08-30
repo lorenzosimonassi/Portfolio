@@ -66,7 +66,7 @@ onMounted(() => {
     <!--Texto-->
     <div class="flex w-1/2 items-center justify-start">
       <div id="text-box" class="w-2/4 mt-[30px] text-left items-center" >
-        <h1 class="text-4xl font-bold tracking-wide dark:text-white">Lorenzo Moura</h1>
+        <h1 class="text-4xl font-bold tracking-wide dark:text-white">Lorenzo Simonassi</h1>
         <h2 class="text-2xl mt-4 font-bold dark:text-white">Um Pouco Sobre Mim</h2>
         <p class="mt-4 dark:text-neutral-200">Sou estudante de Ciência da Computação, com interesse em desenvolvimento front-end. Tenho habilidades em HTML, CSS e JavaScript, e gosto de criar interfaces de usuário intuitivas e agradáveis. Possuo nível intermediário de inglês, e estou sempre em busca de novos desafios e oportunidades para crescer na área.</p>
         <div id="btns" class="flex flex-wrap w-96 h-54 items-start mt-4 gap-x-4 gap-y-2"> 
