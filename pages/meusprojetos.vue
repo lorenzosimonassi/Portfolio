@@ -99,7 +99,7 @@ onMounted(() => {
                 <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 w-[90%] h-[350px] max-w-xl">
                     <h2 class="text-2xl font-bold mb-4 dark:text-white">Detalhes do Meu Portfolio</h2>
                     <p class="mb-4 dark:text-gray-300">Para criar meu portfólio web, utilizei uma combinação de tecnologias modernas, incluindo HTML, CSS, JavaScript, Tailwind CSS e Vue.js. O objetivo principal era desenvolver um site que não apenas demonstrasse minhas habilidades técnicas, mas também refletisse a minha identidade como desenvolvedor, com um design limpo e interativo.</p>
-                  <p class="mt-8 dark:text-white">Acesse ele aqui: <a class="underline-offset-2 underline decoration-sky-500" href="" target="_blank">lorenzosimonassi.com</a></p>
+                  <p class="mt-8 dark:text-white">Acesse ele aqui: <a class="underline-offset-2 underline decoration-sky-500" href="https://portfolio-1ud.pages.dev/" target="_blank"> https://portfolio-1ud.pages.dev/</a></p>
                     <button class="bg-red-500 mt-8 text-white px-4 py-2 rounded-lg hover:bg-red-600 dark:shadow-lg dark:shadow-red-500/50" @click="closeModal('modal2')">Fechar</button>
                 </div>
             </div>
